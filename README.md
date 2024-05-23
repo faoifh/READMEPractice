@@ -17,7 +17,7 @@ Include some badges such as build status, test coverage, etc
 ### Installation
 
 ```bash
-git clone https://github.com/username/projectname.git
-cd projectname
-pip install requirements.txt
+  git clone https://github.com/username/projectname.git
+  cd projectname
+  pip install requirements.txt
 ```
